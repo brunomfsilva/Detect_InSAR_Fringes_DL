@@ -10,6 +10,6 @@ https://comet.nerc.ac.uk/comet-lics-portal-earthquake-event/
 Data processed: 
 
 ### Requirements
-tensorflow: 2.13.0__
-keras: 2.13.1__
+tensorflow: 2.13.0\
+keras: 2.13.1\
 segmentation_models: 1.0.1
