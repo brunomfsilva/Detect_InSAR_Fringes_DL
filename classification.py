@@ -111,7 +111,7 @@ plt.plot(epochs, val_loss, 'b', label='Validation loss')
 plt.title('Training and validation loss')
 plt.legend()
 plt.show()
-
+ 
 dict_h=history.history
 
 ###########################

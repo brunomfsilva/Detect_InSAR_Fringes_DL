@@ -16,7 +16,7 @@ import dill
 import random
 from keras.preprocessing.image import ImageDataGenerator
 import segmentation_metrics
-
+ 
 
 #FOLDERS
 train_folder='./Dataset_patches/wra/train/earthquake'
